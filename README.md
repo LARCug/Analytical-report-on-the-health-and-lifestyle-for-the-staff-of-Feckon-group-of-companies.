@@ -46,7 +46,8 @@ The Engineering staff enjoy a great and higher sleep threshold of 8.4 seconded b
 
 Most engaged occupation
 
-![Uploading 2.JPG…]()
+![2](https://github.com/user-attachments/assets/90e10f09-0611-4701-9765-8b1b65498103)
+
 
 The most engaged employees are the Nurses comprising of only women as they cover the highest average covers steps compared to other occupations
 
