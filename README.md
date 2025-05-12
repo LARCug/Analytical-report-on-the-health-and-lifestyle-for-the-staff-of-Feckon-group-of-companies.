@@ -61,5 +61,6 @@ Recommendations
 -Wellness programs should be encouraged to promote physical activity and stress management. They could could add health incentives for staff and gender with high heart rates. this would in-turn help them go for regular health check ups.
 
 In conclusion, actionable insights deprived from Data visualisation can always solve problems effectively.
+
 Data visualisation tool- Microsspft Excel
 
